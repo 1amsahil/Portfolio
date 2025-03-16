@@ -1,0 +1,14 @@
+.footer-container
+{
+    height: 5vw;
+    text-align: center;
+    margin-top: 15vw ;
+    /* border: 2px solid red; */
+}
+
+.footer-info
+{
+    color: #888;
+    font-family: "Roboto mono";
+    font-size: 16px;
+}
