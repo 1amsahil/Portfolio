@@ -2,7 +2,7 @@
 {
     height: 5vw;
     text-align: center;
-    margin-top: 10vw ;
+    margin: 8vh ;
     /* border: 2px solid red; */
 }
 
@@ -10,5 +10,5 @@
 {
     color: #888;
     font-family: "Roboto mono";
-    font-size: 16px;
+    font-size: 0.8rem;
 }

@@ -1,5 +1,6 @@
 import Heading from "../../common/Heading/Heading"
 import styles from "./Contact.module.css"
+import Alert from "../../common/Alert/Alert";
 import { useState } from "react"
 
 export default function Contact()
@@ -89,6 +90,8 @@ export default function Contact()
                     <button type="submit">Submit</button>
 
                 </form>
+
             </div>
+
     </div>
 }
