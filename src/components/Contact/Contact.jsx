@@ -80,13 +80,13 @@ export default function Contact()
 
                 <form className={styles.form} onSubmit={HandleOnSubmit}>
                     <label htmlFor="name">Name</label>
-                    <input id="name" type="text" placeholder="Enter Your Name" name="name" required/>
+                    <input id="name" type="text" placeholder="Enter Your Name" name="name" autoComplete="off" required/>
 
                     <label htmlFor="email">Email</label>
-                    <input id="email" type="email"  placeholder="Enter Your email" name="email" required/>
+                    <input id="email" type="email"  placeholder="Enter Your email" name="email" autoComplete="off" required/>
 
                     <label htmlFor="msg">Message</label>
-                    <textarea id="msg" placeholder="Enter here" name="message" required></textarea>
+                    <textarea id="msg" placeholder="Enter here" name="message" autoComplete="off" required></textarea>
 
                     <button type="submit">Submit</button>
 
