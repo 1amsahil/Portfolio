@@ -16,13 +16,12 @@ a
 .project-card
 {
     color: white;
+    height: 100%;
 
     margin: 4vh auto;
 
     text-align: center;
     font-family: "Roboto Mono", monospace;
-
-    /* border: 2px solid red; */
 }
 
 .project-card:hover
@@ -33,7 +32,7 @@ a
 
 .project-img
 {
-    height: 88%;
+    height: 40vh;
     width: 90%;
     
     object-fit: cover;
@@ -76,6 +75,7 @@ a
 
     .project-img
     {
+        height: 20vh;
         width: 40vw;
     }
     
