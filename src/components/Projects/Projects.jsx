@@ -1,5 +1,5 @@
 import musicin from "../../assets/musicin.png"
-import foody from "../../assets/foody.jpeg"
+import foody from "../../assets/foody.jpg"
 import Projectcard from "../../common/Projectcard/Projectcard"
 import Heading from "../../common/Heading/Heading"
 import styles from "./Projects.module.css"
