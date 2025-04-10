@@ -31,7 +31,7 @@ export default function Intro()
             </div>
 
             <p className={styles['intro-para']}>
-                Experienced in building dynamic web applications using React for front-end development and Java with Spring for back-end services. Skilled in creating responsive user interfaces and developing scalable, high-performance back-end.
+                B.Tech CSE graduate from Jamia Hamdard with skills in Java, DSA, ML, Web Dev & DBMS. Passionate about tech, innovation & building real-world solutions.
             </p>
 
             <a href={resume} download>
